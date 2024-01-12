@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.91b513350e4fc3e7ac634fbcca36fc25?rik=0286WUbThwDxng&pid=ImgRaw&r=0)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdullah Osman</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
