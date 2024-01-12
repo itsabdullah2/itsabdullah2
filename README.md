@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Typescript, NextJS**
 
-- 💬 Ask me about **ReactJS, JavaScript**
+- 💬 Ask me about **ReactJS, JavaScript, SCSS, HTML, CSS, Redux**
 
 - 📫 How to reach me **abdullahosman3020@gmail.com**
 
