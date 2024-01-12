@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Osman</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<img align="center" width="400" src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" alt="user image" />
+<img style="text-align: center" width="400" src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" alt="user image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabdullah2&label=Profile%20views&color=0e75b6&style=flat" alt="itsabdullah2" /> </p>
 
