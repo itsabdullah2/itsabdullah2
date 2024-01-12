@@ -1,8 +1,13 @@
 <img width="100%" src="https://th.bing.com/th/id/R.91b513350e4fc3e7ac634fbcca36fc25?rik=0286WUbThwDxng&pid=ImgRaw&r=0" alt="banner" />
 <h1 align="center">Hi 👋, I'm Abdullah Osman</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<div>
+  <h3 align="center">A passionate Front-End developer from Egypt</h3>
+  <p align="center">I Love what I'm doing because working in the tech field was my passion when I was young. So, coding is a lifestyle and it changed my thinking</p>
+</div>
 
-<img style="text-align: center" width="400" src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" alt="user image" />
+<div align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif" alt="user image" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabdullah2&label=Profile%20views&color=0e75b6&style=flat" alt="itsabdullah2" /> </p>
 
