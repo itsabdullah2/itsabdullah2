@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsabdullah2" alt="itsabdullah2" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, NextJS**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **ReactJS, JavaScript, SCSS, HTML, CSS, Redux**
+- 💬 Ask me about **ReactJS, JavaScript, SCSS, HTML, CSS, Redux, TypeScript**
 
 - 📫 How to reach me **abdullahosman3020@gmail.com**
 
